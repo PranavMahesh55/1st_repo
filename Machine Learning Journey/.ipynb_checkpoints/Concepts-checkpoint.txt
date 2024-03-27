@@ -1,0 +1,9 @@
+AI : AI is a branch of computer science that deals with the creation of intelligent agents that can reason and act autonomously.
+
+Generative AI : An artificial intelligence technology that deals with the creation of content such as text, audio, imagery or synthetic data
+
+Machine Learning : A subfield of AI, where a program or a system trains a model with input data, so that the trained model can make useful predictions with new or never before seen data.
+
+Supervised Learning: A machine learning concept where a machine learning model is trained with labeled datasets, so for each input the model knows the correct output, so that the model can make generalizations for new data it has never seen before.
+
+Unsupervised Learning: Where a machine learning model is trained with unlabeled datasets, so the model find hidden paterns in the data without the need for human intervention.
